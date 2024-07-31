@@ -1,0 +1,10 @@
+transformers==4.10.2
+stable-diffusion==1.4.0
+transformers==4.10.2
+torch==1.9.0
+torchvision==0.10.0
+numpy==1.20.0
+pandas==1.3.5
+torchvision-features-extra==0.6.0
+transformers-dalle==1.0.0
+dalle-finetune==1.0.0
